@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'MagicalRecord'
+  s.name     = 'MR2.2.1'
   s.version  = '2.2.1'
   s.license  = 'MIT'
   s.summary  = 'Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!.'
